@@ -6,9 +6,9 @@ I am from [Salento](https://www.instagram.com/reel/DaQBVl1Ni8m/) and I graduated
 
 ## Web Communication Course Links
 
-* **[Course Repository (learn-web)](https://github.com/ale66/learn-web):**
-* **[Class Playground (2026–27)](https://github.com/ale66/learn-web-playground-2026-27):** 
-* **[Personal Refactoring Project](https://github.com/ale66/learn-web-playground-2026-27/tree/main/essays/mattiaspagnoloo):**
+* **[Course Repository (learn-web)](https://github.com/ale66/learn-web):** official repository containing lecture notes, slides, coding examples, and guidelines for the WebCom course.
+* **[Class Playground (2026–27)](https://github.com/ale66/learn-web-playground-2026-27):** shared workspace for class exercises.
+* **[Personal Refactoring Project](https://github.com/ale66/learn-web-playground-2026-27/tree/main/essays/mattiaspagnoloo):** My own web refactoring project featuring COM.
 
 ## Campus
 
